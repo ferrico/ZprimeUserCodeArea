@@ -1,0 +1,5 @@
+<export>
+</export>
+<library   name="MyCodeAreaAnalyzer_plugins" file="*.cc">
+  <use   name="MyCodeArea/Analyzer"/>
+</library>
